@@ -1,3 +1,7 @@
+# simple-next-amplify-app
+
+Setting this up to test deploying Next app to AWS Amplify.  Setting up manually instead of using AWS template.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
